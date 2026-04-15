@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Servername.aternos.me",  [Change only IP and port and delete this box]
-    "port": Port_here,
+    "ip": "rdu3616.aternos.me",
+    "port": 51057,
     "version": "1.21.11",
     "try-creative": false
   },
