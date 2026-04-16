@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "rdu3616.aternos.me",
-    "port": 51057,
+    "ip": "billionaireislandsmp.aternos.me",
+    "port": 12368,
     "version": "1.21.11",
     "try-creative": false
   },
